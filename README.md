@@ -10,7 +10,7 @@ runs every modern supercomputer since late 2017.[^2] His version control system 
 by upwards of 85% of all software developers[^3], including this GitHub repository. Most impressively,
 both of these projects are completely free and open-source[^f1], developed by thousands of individual
 contributors and companies[^4] around the globe. How is it possible for Torvalds to maintain and direct
-arguably one of the most successful and important open-source project today?
+arguably one of the most successful and important open-source projects today?
 
 Torvalds was born in Helsinki, Finland, on 28 December 1969. From as early as eleven years old, he could
 be found programming a Commodore VIC-20 first in the high-level BASIC programming language and later moving
@@ -27,7 +27,7 @@ out of them as possible as primary factors.
 While Torvalds studied computer science at the University of Helsinki, he began development on what was
 to become Linux, initially called Freax.[^f3] He announced it along with its source code on Minixs[^f4] IRC later
 that year, looking for feedback and suggestions.[^5] At a similar time, he was introduced to
-the GNU Project then Richard Stallman held a speech at Helsinki University of Technology. Torvalds was inspired enough to
+the GNU Project when Richard Stallman held a speech at Helsinki University of Technology. Torvalds was inspired enough to
 eventually license his new kernel under the GNU General Purpose License in 1992. 18 years later, I would
 also fall for Stallman's talking points and adopt the modern GNU GPLv3 as my go to open-source license.
 
@@ -46,11 +46,11 @@ one of open-sources core strengths: Permissive licensing makes it easy to depend
 software without the hassle of copyright infringement and the propagation of closed-source software drivers.
 
 Moving forward, Torvalds continued to work on his kernel with help from over one-hundred other contributors.
-By 1994, Torvalds releases Linux 1.0 with full support for the GNU software environment GUI with XFree86.[^f7]
+By 1994, Torvalds releases Linux 1.0 with full support for the GNU software environment and a GUI with XFree86.[^f7]
 Already, many distributions of Linux were being produced by various teams and companies. Slackware and Debian
 are still well known today, while Red Hat and SUSE contribute greatly to the kernel and maintain their own
 enterprise Linux distributions. Within an additional four years, Linux would come to support many processors
-and would in turn be supported by many major companies such as IBM and Oracle. Clearly, by this time, Linux
+and would in turn be supported by major companies such as IBM and Oracle. Clearly, by this time, Linux
 was a well recognised and respected open-source project. Within the decade, Linux would grow to over two
 million lines of code in length with over 250 individual and company contributors[^6] from a plethora of countries.
 By 2011, it was reaching ten million lines of code and 1,200 contributors.
@@ -104,7 +104,7 @@ company employees, he is self-aware and understands that he 'is not a people per
 > idiots. I'm sorry – I tried, it's just not in me.
 [^13]
 
-I can't tell you why he will spontaneously outburst to a good-willed programmer. Whatever the reasons may be, he
+I can't tell you why he will spontaneously outburst at a good-willed programmer. Whatever the reasons may be, he
 must understand that as Linux is his own project, there is no amount of contributions or profit that can be made
 with Linux that will fundamentally change that it is his own project. As such, I think it's entirely reasonable
 to defend it as you would yourself.
