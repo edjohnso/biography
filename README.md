@@ -31,11 +31,9 @@ TODO Working together with thousands of contributors using mailing lists, open s
 *Ted Johnson\
 TCD 19335618*
 
-#### Notes
-
-[^1]: There is some controversy surrounding closed-source device drivers being included in the Linux kernel.\
-[^2]: His desire to develop his own tools has been attributed to a lack of access to software for the QL.\
-[^3]: This could be considered 'game modding', but I wasn't nearly skilled enough to produce anything interesting!\
+[^1]: There is some controversy surrounding closed-source device drivers being included in the Linux kernel.
+[^2]: His desire to develop his own tools has been attributed to a lack of access to software for the QL.
+[^3]: This could be considered 'game modding', but I wasn't nearly skilled enough to produce anything interesting!
 
 [1]: https://w3techs.com/technologies/details/os-linux
 [2]: https://www.top500.org/statistics/details/osfam/1
